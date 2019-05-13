@@ -4,13 +4,7 @@
 
 本文内容讲解的内容：**一张思维导图辅助你深入了解 Vue | Vue-Router | Vuex 源码架构**。
 
-项目地址：[https://github.com/biaochenxuying/vue-family-mindmap](https://github.com/biaochenxuying/vue-family-mindmap)
 
-[文章的图文结合版](https://biaochenxuying.cn/articleDetail?article_id=5cd7896c74289f3d47ed13ea)
-
-[Vue-family.md](https://github.com/biaochenxuying/vue-family-mindmap/blob/master/Vue-family.md)
-
-[Vue-family.pdf](https://github.com/biaochenxuying/vue-family-mindmap/blob/master/Vue-family.pdf)
 
 ## 2. Vue 全家桶
 
